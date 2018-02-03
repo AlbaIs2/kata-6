@@ -36,7 +36,7 @@ public class HistogramDisplay <T> extends ApplicationFrame{
         JFreeChart chart = ChartFactory.createBarChart(
                 "HISTOGRAMA",
                 nameEjeX,
-                "nº DE EMAILS",
+                "nº De Personas",
                 dataSet,
                 PlotOrientation.VERTICAL,
                 true,

@@ -4,7 +4,6 @@ package kata6.view;
 import java.util.List;
 import kata6.main.Kata6.Attribute;
 import kata6.model.Histogram;
-import kata6.model.Mail;
 
 
 public class HistogramBuilder<T> {
